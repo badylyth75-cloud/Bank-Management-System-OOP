@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ClsLibary/ClsLibary.vcxproj" Id="77878992-6530-49d5-8a6e-227961456a3b" />
+</Solution>

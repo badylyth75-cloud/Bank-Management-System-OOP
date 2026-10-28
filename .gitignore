@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+out/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.pch
+*.idb
+
+# Temporary files
+*.tmp
+*.log
+ClsLibary.zip
