@@ -144,7 +144,7 @@ GitHub: [@badylyth75-cloud](https://github.com/badylyth75-cloud)
 
 ## المطور
 
-**علي طه علي محمد العبادي**
+**علي طه علي محمد عبادي**
 
 GitHub: [@badylyth75-cloud](https://github.com/badylyth75-cloud)
 
